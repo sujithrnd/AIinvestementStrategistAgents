@@ -1,0 +1,17 @@
+
+# Core Framework & Google Gemini Support
+agno[openai,google]==2.3.19
+
+# Web Interface
+streamlit>=1.35.0
+
+# Financial Data & Tools
+yfinance>=0.2.40
+pandas>=2.2.0
+
+# Visualization
+plotly>=5.22.0
+
+# Environment Variable Management
+python-dotenv>=1.0.1
+
