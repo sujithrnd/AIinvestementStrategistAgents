@@ -11,8 +11,11 @@ The platform combines real-time market data, financial indicators, and news sent
 
 ---
 **User Flow**
+<img width="1217" height="558" alt="legal_flow" src="https://github.com/user-attachments/assets/019953d6-3b7b-4e8b-b8a6-0f9798c4c169" />
 
-**USer Interface**
+**User Interface**
+<img width="1907" height="936" alt="invest2" src="https://github.com/user-attachments/assets/4c47d687-e024-4989-b9a5-b3dae81a0cc9" />
+<img width="1918" height="980" alt="invest1" src="https://github.com/user-attachments/assets/6aa3792b-7ece-4742-a415-3f3d46dc2663" />
 
 
 ## 🛠️ Installation Guide
